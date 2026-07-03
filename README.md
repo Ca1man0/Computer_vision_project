@@ -130,4 +130,3 @@ I notebook scaricano il dataset tramite `kagglehub`. Se vengono richieste le cre
 ## 7. Riproducibilità e note
 - Seed casuali fissi e split stratificato 80/20 (immagini) / 75/25 (crop).
 - **MOD 4** contiene un training già eseguito; il ri-addestramento richiede ~32 min su una T4 (una nota nel notebook segnala la cella lunga).
-- Le metriche possono variare di <1–2% tra esecuzioni/hardware per il non determinismo dello stack deep learning.
