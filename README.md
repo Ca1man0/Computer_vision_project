@@ -15,7 +15,7 @@ Il progetto affronta un problema di **object detection multi-classe** controllat
 
 Entrambe le pipeline sono addestrate e valutate sugli **stessi dati con le stesse metriche**, così i risultati rispondono a una domanda ingegneristica concreta: *quando conviene un modello deep pesante e quando basta una pipeline classica leggera?*
 
-Documento completo: **[`docs/Documento_analisi_tecnica ver 2.0.docx`](docs/Documento_analisi_tecnica ver 2.0.docx)** 
+Documento completo: **Documento_analisi_tecnica ver 2.0.docx** 
 
 ---
 
